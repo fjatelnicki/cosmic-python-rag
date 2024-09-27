@@ -1,0 +1,2 @@
+- Add images description and path to the image/displaying images from the section
+- Normalization of "similarity scores"
